@@ -1,4 +1,4 @@
-# Versões antigas do app Expo Go apenas para Android
+# Versões antigas do app Expo Go (apenas para Android)
 
 Usar de acordo com a SDK do Expo no package.json do projeto.
 
